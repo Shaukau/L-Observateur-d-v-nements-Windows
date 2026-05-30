@@ -1,7 +1,8 @@
 # L-Observateur-d-v-nements-Windows
 
 # DNS Monitoring - Event Viewer
-
+Fichier XML :
+![https://github.com/Shaukau/L-Observateur-d-v-nements-Windows/blob/main/Dns_Monitoring.xml](https://github.com/Shaukau/L-Observateur-d-v-nements-Windows/blob/main/Dns_Monitoring.xml)
 ## Objectif
 
 Cette vue personnalisée permet de surveiller les événements liés au serveur DNS sous Windows Server.
